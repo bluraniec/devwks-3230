@@ -16,7 +16,7 @@ Cisco Network Services Orchestrator (NSO) is software that enables the delivery 
  
 This session demonstrates how NSO and Model-Driven Telemetry can be used in an environment with virtualized devices running Operating Systems, such as Cisco IOS-XR. Over the lab you will have the opportunity to create and automate a service through NSO and to connect it with open-source telemetry tools that will adjust the service in near real-time.
 
-# Prerequisites
+# Prerequisites 
 - Basic understanding of Python and Linux
 - Basics of SQL language
 - Basic understanding of NSO and YANG Data Modeling
